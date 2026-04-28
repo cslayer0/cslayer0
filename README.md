@@ -5,23 +5,18 @@
 ### Computer Science Undergrad | 🌍 Based in Greece
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-effieprs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/effieprs)
-[![GitHub](https://img.shields.io/badge/GitHub-cslayer0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cslayer0)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:effieprs@yahoo.com)
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
-
-I am a passionate professional focused on building impactful solutions. I bring a blend of technical expertise and creative problem-solving to every project.
-
-* 🌱 I’m currently learning **Flutter, Dart & Next.js**
-* 🤝 I’m open to collaborating on basically anything
+* 🌱 I’m currently learning **Flutter & Dart**.
+* 🤝 I’m open to collaborating!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### My languages
 
 <div align="center">
 
@@ -33,7 +28,9 @@ I am a passionate professional focused on building impactful solutions. I bring 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX&layout=compact&theme=transparent"/>
 
 </div>
 

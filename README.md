@@ -31,10 +31,9 @@
 <img src="https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" /> <br>
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff" />
+<img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" />
 <br> <br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cslayer0&stats_format=bytes)
 
 
 </div>

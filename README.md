@@ -33,12 +33,12 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff" />
 <br> <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX&layout=compact&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslayer0&layout=compact&theme=transparent"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cslayer0s&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cslayer0&style=flat-square&color=blue" alt="Profile views" />
 </div>

@@ -33,6 +33,10 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff" />
 <br> <br>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cslayer0&stats_format=bytes)
+
+
 </div>
 
 ---
